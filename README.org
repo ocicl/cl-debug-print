@@ -1,0 +1,10 @@
+* cl-debug-print
+
+A reader-macro for debug print
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/masatoi/cl-debug-print.git   |
+| commit  | ad9ca84  |
+| systems | cl-debug-print |
+|---------+-------------------------------------------|
+
